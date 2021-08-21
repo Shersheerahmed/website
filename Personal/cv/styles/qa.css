@@ -1,0 +1,19 @@
+body{
+font-family: initial;
+padding: 0;
+margin: 0;
+background-color: wheat;
+}
+.qasem {
+    background-color: tomato;
+    margin: 0 ;
+     list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    
+}
+.qasem a{
+    text-decoration: none;
+    color: white;
+}

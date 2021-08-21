@@ -1,0 +1,19 @@
+body{
+    background-color: teal;
+    padding: 0;
+    margin: 0;
+    font-family: cursive;
+    
+}
+.ahmed{
+background-color: teal;
+margin: 0;
+ list-style-type: none;
+padding: 0;
+
+}
+.ahmed a{
+
+text-decoration: none;
+color: white;
+}
